@@ -22,3 +22,7 @@ Executar o projeto no navegador:
 npx expo start
 
 npx expo start --localhost --android
+
+
+Para instalar o image picker
+npx expo install expo-image-picker
